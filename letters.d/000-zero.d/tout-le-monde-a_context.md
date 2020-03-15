@@ -33,14 +33,16 @@ Making Sense Podcast #186 - The Bomb | Sam Harris
  [ https://samharris.org/podcasts/186-the-bomb/ ]
 
 
-[EDIT: Something about the current pandemic goes here]
-
  [ biologicals ]
 
+ [ https://who.int/coronavirus ]
 
-[EDIT: something personal goes here]
+
+My local government's web site for this pandemic:
 
  [ my_locale ]
+
+ [ https://portal.ct.gov/Coronavirus ]
 
 
 Detailed
