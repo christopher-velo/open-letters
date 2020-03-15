@@ -15,16 +15,30 @@ in the evening.
 
 There's other stuff that was present in me, as well. ;)
 
+ - - -
 
 YouTube for Christopher (@nistophe or christopher.velo)
 
  [ https://www.youtube.com/channel/UCbC-VYxWSaCjSMOWcsVztBg/ ]
 
- [ italian balcony violin - lockdown ]
+
+tweet: Italian balcony violin - lockdown
+
+ [ https://twitter.com/Davaed7/status/1238522748680441860 ]
+
+
+Sam Harris
+Making Sense Podcast #186 - The Bomb | Sam Harris
 
  [ https://samharris.org/podcasts/186-the-bomb/ ]
 
+
+[EDIT: Something about the current pandemic goes here]
+
  [ biologicals ]
+
+
+[EDIT: something personal goes here]
 
  [ my_locale ]
 
