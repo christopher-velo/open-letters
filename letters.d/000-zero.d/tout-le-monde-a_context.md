@@ -33,6 +33,23 @@ Making Sense Podcast #186 - The Bomb | Sam Harris
  [ https://samharris.org/podcasts/186-the-bomb/ ]
 
 
+
+experimental URI:
+
+ [ https://t.co/4RO6cvElZQ ]
+
+Helena Deland - There Are a Thousand & Two Queries
+    | A Take Away Show
+
+ [ https://youtu.be/5-114W6LsqI ] via  @YouTube
+
+La Blogothèque presents Helena Deland -
+There Are a Thousand & Two Queries
+Shot at St Michel and Odéon in Paris
+in October 2018
+
+
+
  [ biologicals ]
 
  [ https://who.int/coronavirus ]
